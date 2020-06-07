@@ -17,10 +17,10 @@ a {
     font-size: 1.3em;
     margin: 0 20px;
 }
-#specialA {
+.specialA {
   color: black;
-  font-size: 1.3em;
-    margin: 0 20px;
+  font-size: 1.019em;
+   margin: 0 20px;
 
 }
 a:hover {
@@ -230,4 +230,22 @@ body {
 
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.richText-content {
+    color: black;
+    font-size: 100%;
+    line-height: 1.5;
+    text-align: center;
+    text-transform: none;
+    font-style: normal;
+    font-family: Arial,sans-serif;
+    font-weight: 700;
+}
+
+.boxcard {
+    display: flex;
+}
+
+btn btn-primary {
+  text-align: center;
 }
