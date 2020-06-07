@@ -244,8 +244,17 @@ body {
 
 .boxcard {
     display: flex;
+    justify-content: center;
 }
 
-btn btn-primary {
+.btn btn-primary {
   text-align: center;
 }
+
+.box1card {
+  width: 30%;
+  min-height: 100px; 
+  margin-bottom: 200px;
+  padding: 0 2%;
+}
+ 
