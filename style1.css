@@ -178,7 +178,7 @@ body {
   }
 
 .bodies {
-     background-color:lightgrey;
+     background-color:lightgray;
 }
  
 .video{
@@ -258,8 +258,24 @@ body {
   padding: 0 2%;
 }
 
+.box2card {
+  width: 30%;
+  min-height: 100px; 
+  margin-bottom: 200px;
+  padding: 0 2%;
+  background-color: black;
+  color: white;
+}
 .nana {
-  padding: 0 10%;
+  padding: 0 50px;
   text-align: center;
 }
+.Banana {
+  margin-top: 100px;
+  padding: 0 100px;
+  text-align: left;
+  background-color:black ;
+  color: white;
+}
+
  
